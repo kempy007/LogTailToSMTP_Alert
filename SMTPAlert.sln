@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMTPAlert", "SMTPAlert\SMTPAlert.csproj", "{D425F745-8F63-4385-A9D3-CCB9ACFF781B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D425F745-8F63-4385-A9D3-CCB9ACFF781B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D425F745-8F63-4385-A9D3-CCB9ACFF781B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D425F745-8F63-4385-A9D3-CCB9ACFF781B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D425F745-8F63-4385-A9D3-CCB9ACFF781B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
